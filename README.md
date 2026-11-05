@@ -79,7 +79,7 @@ Response:
 5. Test the live URL:
 
 ```bash
-curl https://<your-service>.onrender.com/health
+curl https://heart-disease-api-fastapi-docker.onrender.com/health
 ```
 
 Note: Render's free tier sleeps after inactivity, so the first request may be slow.
