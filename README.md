@@ -4,8 +4,9 @@ FastAPI service that serves a scikit-learn classifier trained on the
 [Heart Disease dataset](https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset),
 packaged with Docker and deployable on Render.
 
-**Live URL:** `https://<your-service>.onrender.com` (replace after deploying)
-**Swagger UI:** `/docs`
+**Live URL:** https://heart-disease-api-fastapi-docker.onrender.com
+
+**Swagger UI:** https://heart-disease-api-fastapi-docker.onrender.com/docs
 
 ## Project structure
 
